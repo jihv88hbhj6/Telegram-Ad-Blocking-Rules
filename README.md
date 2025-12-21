@@ -18,19 +18,19 @@
 规则目前已超1K以上，只对简体中文和少量繁体中文有效。
 
 # 使用方法:
-如果你正在使用https://github.com/risin42/NagramX
-第三方开源版Telegram，是最方便直接导入的。
+如果你正在使用<a href="https://github.com/risin42/NagramX">Nagram X</a>第三方开源的Telegram，是最方便直接导入的。
 
-❶.打开NagramX，找到N-设置
+❶.先下载[屏蔽广告规则](https://github.com/jihv88hbhj6/Telegram-Ad-Blocking-Rules/releases/tag/%E4%BF%AE%E5%A4%8D%E4%BA%86%E4%B8%80%E4%BA%9B%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%980.0.1)，到设备文件夹里
 
-❷.点击实验性功能，找到消息过滤器打开
+❷.打开NagramX，找到（N-设置）
 
-❸.找到全局过滤器打开，然后导添加正则表达式
+❸.点击（实验性功能），找到（消息过滤器）打开
 
+❹.找到（全局过滤器）打开，把[屏蔽广告规则](https://github.com/jihv88hbhj6/Telegram-Ad-Blocking-Rules/releases/tag/%E4%BF%AE%E5%A4%8D%E4%BA%86%E4%B8%80%E4%BA%9B%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%980.0.1)导入（添加正则表达式）里面即可完成全部步骤
 
 # 最后:
 有问题和投稿
-<a href="https://smp4.simplexonflux.com/g#HxbKfE9vdMJ2fhuMUh_3nLm4gykpPWdoiAGxXLBWOs8" target="_blank">
+<a href="https://smp4.simplexonflux.com/g#HxbKfE9vfhuMUh_3nLm4gykpPWdoiAGxXLBWOs8" target="_blank">
   <img
     src="https://github.com/user-attachments/assets/b3f48d2a-94dd-407d-b05e-a4ec982ee5fa"
     width="70"
