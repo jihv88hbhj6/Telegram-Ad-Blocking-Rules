@@ -20,7 +20,8 @@
 # 使用方法:
 如果你正在使用<a href="https://github.com/risin42/NagramX">Nagram X</a>第三方开源的Telegram，是最方便直接导入的。
 
-❶.先下载[屏蔽广告规则](https://github.com/jihv88hbhj6/Telegram-Ad-Blocking-Rules/releases/tag/%E4%BF%AE%E5%A4%8D%E4%BA%86%E4%B8%80%E4%BA%9B%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%980.0.1)，到设备文件夹里
+❶.先下载<a href="https://github.com/jihv88hbhj6/Telegram-Ad-Blocking-Rules/releases">屏蔽广告规则</a>
+，到设备文件夹里
 
 ❷.打开NagramX，找到（N-设置）
 
