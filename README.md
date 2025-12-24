@@ -1,12 +1,5 @@
-# Telegram电报屏蔽广告规则
-<p align="center">
-  <img
-    width="120"
-    height="120"
-    alt="icon"
-    src="https://github.com/user-attachments/assets/0e150e03-e45c-4814-adf0-961e43051509"
-  />
-</p>
+# <img width="30" height="30" alt="icon" src="https://github.com/user-attachments/assets/fc15868d-74e3-4dda-a4dd-ada895e9b778" />Telegram电报屏蔽广告规则
+
 
 
 [长声明👈](https://github.com/jihv88hbhj6/statement)
@@ -14,7 +7,7 @@
 大家好这是我第一个GitHub项目，我称他为“Telegram之清郎行动”
 由于Telegram的广告和诈骗数不胜数，严重影响日常使用。
 
-所以我在业余时间弄了大量广告关键词，尽可能的不影响日常使用体验（群聊，机器人功能等）
+该项目是我在业余时间找的大量广告关键词，尽可能的不影响日常使用体验（群聊，机器人功能等）
 规则目前已超1K以上，只对简体中文和少量繁体中文有效。
 
 # 使用方法:
@@ -27,7 +20,7 @@
 
 ❸.点击（实验性功能），找到（消息过滤器）打开
 
-❹.找到（全局过滤器）打开，把[屏蔽广告规则](https://github.com/jihv88hbhj6/Telegram-Ad-Blocking-Rules/releases/tag/%E4%BF%AE%E5%A4%8D%E4%BA%86%E4%B8%80%E4%BA%9B%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%980.0.1)导入（添加正则表达式）里面即可完成全部步骤
+❹.找到（全局过滤器）打开，把[屏蔽广告规则](https://github.com/jihv88hbhj6/Telegram-Ad-Blocking-Rules/releases/tag/%E4%BF%AE%E5%A4%8D%E4%BA%86%E4%B8%80%E4%BA%9B%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%980.0.2)导入（添加正则表达式）里面即可完成全部步骤
 
 # 最后:
 有问题和投稿<a href="https://smp4.simplexonflux.com/g#HxbKfE9vdMJ2fhuMUh_3nLm4gykpPWdoiAGxXLBWOs8" target="_blank">
