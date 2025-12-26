@@ -20,7 +20,7 @@
 
 ❸.点击（实验性功能），找到（消息过滤器）打开
 
-❹.找到（全局过滤器）打开，把[屏蔽广告规则](https://github.com/jihv88hbhj6/Telegram-Ad-Blocking-Rules/releases/tag/%E4%BF%AE%E5%A4%8D%E4%BA%86%E4%B8%80%E4%BA%9B%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%980.0.2)导入（添加正则表达式）里面即可完成全部步骤
+❹.找到（全局过滤器）打开，把<a href="https://github.com/jihv88hbhj6/Telegram-Ad-Blocking-Rules/releases">屏蔽广告规则</a>导入（添加正则表达式）里面即可完成全部步骤
 
 # 最后:
 有问题和投稿<a href="https://smp4.simplexonflux.com/g#HxbKfE9vdMJ2fhuMUh_3nLm4gykpPWdoiAGxXLBWOs8" target="_blank">
